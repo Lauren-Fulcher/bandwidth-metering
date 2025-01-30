@@ -27,7 +27,7 @@ To add bandwidth while provisioning a virtual server instance by using the UI, f
 1. From your browser, open the [{{site.data.keyword.cloud_notm}} console](/login){: external} and log in to your account.
 1. Select **Catalog** from the menu bar on the header. 
 1. Select the **Virtual Server for Classic** tile and [provision your new virtual server instance](/docs/virtual-servers?topic=virtual-servers-ordering-vs-public).
-1. In the Network interface section, find the **Public egress - bandwidth** option. Then, select the amount of bandwidth that you want to add to your server.
+1. In the Network interface section, find the **Public egress - bandwidth** option. Then, select the amount of bandwidth that you want to add to your server. 
  
    Public bandwidth usage over GB allocation is charged per GB. Also, public bandwidth egress (or bandwidth allocation) pricing depends on regions as indicated in the pricing tab on the [VPC Provisioning Page](https://cloud.ibm.com/infrastructure/provision/vpc){: external} in the IBM cloud console.
    {: important}

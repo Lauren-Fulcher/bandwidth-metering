@@ -23,7 +23,7 @@ You can review answers to some frequently asked questions about bandwidth meteri
 {: faq}
 
 * Public bandwidth egress (or bandwidth allocation) pricing depends on regions. To learn more, visit the pricing tab on the [VPC Provisioning Page](https://cloud.ibm.com/infrastructure/provision/vpc){: external} in the IBM cloud console.
-* Public bandwidth usage over GB allocation is charged per GB.  
+* Public bandwidth usage over GB allocation is charged per GB.
  
 ## What IMS permissions do I need to view and change bandwidth allocations (or add and remove devices to and from bandwidth pools)?
 {: #bw-permissions}

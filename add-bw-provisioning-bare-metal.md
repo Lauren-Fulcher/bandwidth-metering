@@ -27,7 +27,7 @@ To add bandwidth when you provision a bare metal server in the UI, follow these 
 1. From your browser, open the [{{site.data.keyword.cloud_notm}} console](/login){: external} and log in to your account.
 1. Select **Catalog** from the menu bar on the header.
 1. Select the **Bare Metal Servers for Classic** tile and provision your new virtual server instance. To learn more, see [Selecting from the most popular servers](/docs/bare-metal?topic=bare-metal-bm-select-popular-servers).
-1. In the Network interface section, find the **Public egress - bandwidth** option. Then, select the amount of bandwidth that you want to add to your server's allocation. Bandwidth is offered in tiers.
+1. In the Network interface section, find the **Public egress - bandwidth** option. Then, select the amount of bandwidth that you want to add to your server's allocation. Bandwidth is offered in tiers. 
 
    Public bandwidth usage over GB allocation is charged per GB. Also, public bandwidth egress (or bandwidth allocation) pricing depends on regions as indicated in the pricing tab on the [VPC Provisioning Page](https://cloud.ibm.com/infrastructure/provision/vpc){: external} in the IBM cloud console.
    {: important}
